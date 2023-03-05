@@ -2,7 +2,7 @@
 <div display='flex'>
 <div>
 <h1 align="left" margin='20px' >Hello 👋, I'm Disha Gupta</h1>
-<h3 align="left" margin='20px' >A passionate ans aspiring Full Stack developer from India</h3>
+<h3 align="left" margin='20px' >A passionate and aspiring Full Stack developer from India</h3>
 </div>
   <div flex-grow=1>
 <img src='https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif' />
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **guptamansi201@gmail.com**
 
-- My Portfolio [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dishagup.github.io/)
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dishagup.github.io/)
 
 
 
