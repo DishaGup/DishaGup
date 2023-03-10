@@ -74,5 +74,5 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" /> -->
 
-## Thankyou to visit profile
+## Thankyou for visiting
 ### Don't forgot to give a <strong>star</strong>
