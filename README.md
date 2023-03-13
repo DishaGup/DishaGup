@@ -41,8 +41,8 @@
 
 - 📫 How to reach me **guptamansi201@gmail.com**
 
-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dishagup.github.io/)
-
+<!-- //- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dishagup.github.io/) -->
+-  My portfolio - <a href='https://dishagup.github.io/' target='_blank'>link</a>
 
 
 <h3 align="left">Connect with me:</h3>
