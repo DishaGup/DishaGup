@@ -1,12 +1,7 @@
-<!-- <div width='70%' border='2px dashed blue' margin='auto' height='auto' ><img width='100%' height='30%' src='https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif' /> </div> -->
-<!-- <div  style="background-image: url(https://readme.com/static/img/home/footer-confetti-background.png);padding: 30px; " ><iframe src="https://giphy.com/embed/wwg1suUiTbCY8H8vIA" width="90%" height="380" frameBorder="2" class="giphy-embed" ></iframe></div>
-<!--  -->
-<!--  <div  style="background-image: url(https://readme.com/static/img/home/footer-confetti-background.png);padding: 30px; " ><img src="https://art.pixilart.com/3e3fc9c4c42536a.gif" width="90%" height="380" ></img></div> --> 
-<!-- <img src='https://camo.githubusercontent.com/92b406742484961df85585a2624ca87c4da03814428bed001e34404cb9de054b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966'  /> -->
 
 
 
-<div  style="background-image: url('https://readme.com/static/img/home/footer-confetti-background.png');padding: 10px; " ><img src="https://camo.githubusercontent.com/92b406742484961df85585a2624ca87c4da03814428bed001e34404cb9de054b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966" width="60%" style=" margin='auto'; height="300px"; padding='60px'" / ></div>
+<div style="padding: 10px; " ><img src="https://github.com/AviSingh017/AviSingh017/blob/main/original-d6c5542789f8bd2a3851eecd7b01f100.webp" width="90%" style=" margin='auto'; height="5cm"; padding='60px'" / ></div>
 
 <div style='display: flex; justify-content: space-around; '  >
 <div align="left" style="padding-top: 20px;text-align: center;" >
