@@ -1,7 +1,7 @@
 
 
 
-<div style="padding: 10px; " ><img src="https://github.com/AviSingh017/AviSingh017/blob/main/original-d6c5542789f8bd2a3851eecd7b01f100.webp" width="90%" style=" margin='auto'; height="5cm"; padding='60px'" / ></div>
+<div style="padding: 100px; " ><img src="https://github.com/AviSingh017/AviSingh017/blob/main/original-d6c5542789f8bd2a3851eecd7b01f100.webp" width="90%" style=" margin='auto'; height="5cm"; padding='60px'" / ></div>
 
 <div style='display: flex; justify-content: space-around; '  >
 <div align="left" style="padding-top: 20px;text-align: center;" >
