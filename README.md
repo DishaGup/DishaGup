@@ -89,7 +89,7 @@
 
 
 
-<p align="center" style=' width:"95%"; margin: auto; padding: 10px; '> <a href="https://github.com/dishagup/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishagup&theme=gotham" alt="dishagup" /></a> </p>
+<p align="center" style=' width:"95%"; margin: auto; padding: 10px; '> <a href="https://github.com/DishaGup"><img src="https://github-profile-trophy.vercel.app/?username=dishagup&theme=gotham" alt="dishagup" /></a> </p>
 
 [![Disha's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DishaGup&theme=blue-green)](https://github.com/DishaGup/github-readme-stats)
 
