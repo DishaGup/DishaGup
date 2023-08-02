@@ -24,11 +24,11 @@
 
 ---
 
-- 🧠 I am currently learning **Redux**
+- 🧠 I am currently learning **Vue.js, SQL**
 
 - 📝 I regularly write articles.
 
-- 💬 Ask me about **react, vanilla javascript**
+- 💬 Ask me about **TECH, AI**
 
 - 📫 How to reach me **guptamansi201@gmail.com**
 
