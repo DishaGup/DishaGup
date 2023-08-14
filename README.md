@@ -1,7 +1,7 @@
 
 
 
-<div style="padding: 10px;border-radius:20px " ><a href="https://github.com/DishaGup" ><img src="./banner.png" width="100%" /></a> </div>
+<div style="padding: 10px;border-radius:20px;height: 3cm;overflow:hidden" ><a href="https://github.com/DishaGup" ><img  src="./banner.png" width="100%" /></a> </div>
 
 <div style='display: flex; justify-content: space-around; '  >
 <div align="left" style="padding-top: 20px;text-align: center;" >
